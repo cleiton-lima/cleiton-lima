@@ -2,7 +2,6 @@
 
 
 - 🔭 Hoje eu trabalho como backend na __Rits Tecnologia__
-- 🌱 Estou aprendendo Node.js
 - 💬 Contate-me pelo e-mail: acrl.ribeiro17@gmail.com
 
 <div align="center">
