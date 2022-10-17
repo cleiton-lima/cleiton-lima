@@ -1,7 +1,6 @@
 ### Olá, eu sou o Cleiton Lima.
 
 
-- 🔭 Estou em busca de novas oportunidades como desenvolvedor web.
 - 💬 Contate-me pelo e-mail: acrl.ribeiro17@gmail.com
 
 <div align="center">
